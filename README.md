@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c19c&height=150&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00c19c&height=150&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=welcome+to+my+github+profile%2C+I'm+Juan+Rico" alt="Typing SVG" />
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=welcome+to+my+github+profile%2C+I'm+Juan+Rico" alt="Typing SVG" />
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -9,18 +9,18 @@
 
 Soy un estudiante apasionado por la tecnología y el desarrollo de software. Actualmente estoy dando mis primeros pasos en el mundo de la programación y estoy emocionado por aprender y crecer en este campo.
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img width="100%" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 
  <h3> programming & markup languages </h3>
 
 <p>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
 </p>
 
 <h3>tecnologias</h3>
@@ -32,10 +32,10 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software. Act
 
 <h3>Herramientas</h3>
 <p>
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>
 </p>
 
 <h3>Sistemas Operativos</h3>
