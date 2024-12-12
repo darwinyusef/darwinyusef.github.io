@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00c19c&height=150&section=header"/>
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=welcome+to+my+github+profile%2C+I'm+Yusef+Gonzalez" alt="Typing SVG" />
+<img width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=welcome+to+my+github+profile%2C+I'm+Yusef+Gonzalez" alt="Typing SVG" />
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width=100%>
 
 ## Analista y Desarrollador de Software (Desarrollador / Programador)
 Soy un estudiante apasionado por la tecnología y el desarrollo de software. Actualmente estoy dando mis primeros pasos en el mundo de la programación y estoy emocionado por aprender y crecer en este campo.
 
-<img width="100%" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img width=100% src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 
  <h3> programming & markup languages </h3>
