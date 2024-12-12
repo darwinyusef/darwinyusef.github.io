@@ -5,8 +5,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## Analista y Desarrollador de Software (Desarrollador / Programador)
-![Banner](/banner.png)
-
 Soy un estudiante apasionado por la tecnología y el desarrollo de software. Actualmente estoy dando mis primeros pasos en el mundo de la programación y estoy emocionado por aprender y crecer en este campo.
 
 <img width="100%" src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
