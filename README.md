@@ -7,12 +7,15 @@
 ## Desarrollador Fullstack de Software  **(Architech AI software for the future )**
 Soy ingeniero de sistemas y desarrollador Fullstack con más de 15 años de experiencia en desarrollo de aplicaciones web y con casi dos años de amplitud técnica en todo lo que respecta a la arquitectura de software, especializándome en soluciones de tipo busisness y actualmente en inteligencia artificial. poco a poco he ido evolucionando hacia roles técnicos avanzados que combinan creatividad y estrategia tecnológica.
 
-Además, desde 2006 he desarrollado habilidades de liderazgo y comunicación a través de la docencia, capacitando a cientos de personas convirtiendome en un promotor (evangelista de codigo y TI), impulsando la adopción de buenas prácticas, estándares de calidad y herramientas innovadoras, promoviendo la colaboración y el aprendizaje continuo dentro de equipos y comunidades técnicas. Mi formación incluye ingeniería de sistemas, especialización en desarrollo móvil (SENA) y estudios actuales como especialista en inteligencia artificial en la UNIR.
+Desde 2006 he desarrollado habilidades de liderazgo y comunicación a través de la docencia, no solo capacitando a nuevos programadores sino en la creación de contenido online y la transformación digital de las empresas. convirtiendome en un promotor (evangelista de codigo y TI), promuevo buenas prácticas, estándares de calidad y herramientas innovadoras, fomentando la colaboración y el aprendizaje continuo en equipos y comunidades técnicas.
 
-Mi objetivo es consolidarme como arquitecto de software, integrando IA para liderar proyectos innovadores y transformar digitalmente las organizaciones. Estoy listo para aportar mi experiencia en el diseño de soluciones disruptivas y de alto impacto.
+Mi objetivo es consolidarme como arquitecto de software integrando la IA, liderando la creación de sistemas innovadores y escalables que transformen digitalmente a las organizaciones. Aspiro a diseñar arquitecturas que integren inteligencia artificial para resolver problemas complejos, automatizar procesos y anticipar las necesidades futuras del mercado, todo ello bajo un enfoque ético y sostenible. Estoy listo para aportar mi experiencia y visión en el diseño de soluciones disruptivas y de alto impacto.
 
 
- <h3> programming & markup languages </h3>
+<h3> Formación </h3>
+Mi formación incluye ingeniería de sistemas, especialización en desarrollo móvil (SENA) y estudios actuales como especialista en inteligencia artificial en la UNIR, tecnologo en analisis y desarrollo de sistemas de información (SENA) y Tecnicos en Sistemas y Diseño Grafico.
+ 
+<h3> programming & markup languages </h3>
 
 <p>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>
