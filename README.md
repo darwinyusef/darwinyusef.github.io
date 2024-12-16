@@ -4,10 +4,12 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width=100%>
 
-## Analista y Desarrollador de Software (Desarrollador / Programador)
-Soy un estudiante apasionado por la tecnología y el desarrollo de software. Actualmente estoy dando mis primeros pasos en el mundo de la programación y estoy emocionado por aprender y crecer en este campo.
+## Desarrollador Fullstack de Software  **(Architech AI software for the future )**
+Soy ingeniero de sistemas y desarrollador Fullstack con más de 15 años de experiencia en desarrollo de aplicaciones web y con casi dos años de amplitud técnica en todo lo que respecta a la arquitectura de software, especializándome en soluciones de tipo busisness y actualmente en inteligencia artificial. poco a poco he ido evolucionando hacia roles técnicos avanzados que combinan creatividad y estrategia tecnológica.
 
-<img width=100% src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+Además, desde 2006 he desarrollado habilidades de liderazgo y comunicación a través de la docencia, capacitando a cientos de personas convirtiendome en un promotor (evangelista de codigo y TI), impulsando la adopción de buenas prácticas, estándares de calidad y herramientas innovadoras, promoviendo la colaboración y el aprendizaje continuo dentro de equipos y comunidades técnicas. Mi formación incluye ingeniería de sistemas, especialización en desarrollo móvil (SENA) y estudios actuales como especialista en inteligencia artificial en la UNIR.
+
+Mi objetivo es consolidarme como arquitecto de software, integrando IA para liderar proyectos innovadores y transformar digitalmente las organizaciones. Estoy listo para aportar mi experiencia en el diseño de soluciones disruptivas y de alto impacto.
 
 
  <h3> programming & markup languages </h3>
